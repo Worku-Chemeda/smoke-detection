@@ -1,4 +1,4 @@
-# Fire Alarm Smoke Detection ??
+# Fire Alarm Smoke Detection 
 
 This project uses Machine Learning to predict fire outbreaks based on environmental sensor data.
 
